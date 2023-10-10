@@ -8,7 +8,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Screenshot
 
-![Alt text](<Version Desktop 1440px.png>)
+![Alt text](<Version desktop 1440px-1.png>)
 ![Alt text](<Version Mobile 375px.png>)
 
 #### Links
